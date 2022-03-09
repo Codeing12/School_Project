@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    font-size: 20px;
+    background: lightblue;
+    font-family: cursive;
+}
+menu
+{
+    background-color: aqua;
+}
+h1
+{
+    background: lightgreen;
+}
+img
+{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
